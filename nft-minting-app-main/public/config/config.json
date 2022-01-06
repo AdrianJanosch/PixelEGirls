@@ -1,14 +1,14 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0x636cfeacfd71bc2f0cf55594eb885c5597cf13eb",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xba14fea1490929ec83e317e98b43bbda67f37a006b9606c0a73f940613a0cb67",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
+  "NFT_NAME": "Pixel E-Girls",
+  "SYMBOL": "PEGNFT",
+  "MAX_SUPPLY": 6969,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
